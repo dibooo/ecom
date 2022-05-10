@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/css/main.7dddc16a.chunk.css",
+    "main.js": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/main.1283b034.chunk.js",
+    "main.js.map": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/main.1283b034.chunk.js.map",
+    "runtime-main.js": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/runtime-main.efb19078.js",
+    "runtime-main.js.map": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/runtime-main.efb19078.js.map",
+    "static/js/2.a4b7c3af.chunk.js": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/2.a4b7c3af.chunk.js",
+    "static/js/2.a4b7c3af.chunk.js.map": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/2.a4b7c3af.chunk.js.map",
+    "static/js/3.6da2afe2.chunk.js": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/3.6da2afe2.chunk.js",
+    "static/js/3.6da2afe2.chunk.js.map": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/3.6da2afe2.chunk.js.map",
+    "index.html": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/index.html",
+    "static/css/main.7dddc16a.chunk.css.map": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/css/main.7dddc16a.chunk.css.map",
+    "static/js/2.a4b7c3af.chunk.js.LICENSE.txt": "/dibooo/ecomnpm%20install%20gh-pages%20%E2%80%94%20save-dev/static/js/2.a4b7c3af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb19078.js",
+    "static/js/2.a4b7c3af.chunk.js",
+    "static/css/main.7dddc16a.chunk.css",
+    "static/js/main.1283b034.chunk.js"
+  ]
+}
